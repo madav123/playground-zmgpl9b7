@@ -12,6 +12,16 @@ Public Module modmain
 End Module
 ```
 
+```vb.net runnable
+Imports System
+
+Public Module modmain
+   Sub Main()
+     Console.WriteLine ("Test!")
+   End Sub
+End Module
+```
+
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
